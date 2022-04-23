@@ -23,14 +23,25 @@
     <script src="script.js" defer></script>
   </head>
   <body>
-    <header>
-      <nav>
-        <ul>
-          <li>Test</li>
-          <li>Home</li>
-          <li>About</li>
-        </ul>
-      </nav>
-    </header>
+    <main>
+      <div class="quote-container" id="quote-container">
+        <!-- Quote -->
+        <div class="quote-text">
+          <i class="fas fa-quote-left"></i>
+          <span id="quote">Here is a quote</span>
+        </div>
+        <!-- Author of Quote -->
+        <div class="quote-author">
+          <span id="author">Me</span>
+        </div>
+        <!-- Buttons -->
+        <div class="button-container">
+          <button class="twitter-button" id="twitter" title="Tweet This!">
+            <i class="fab fa-twitter"></i>
+          </button>
+          <button id="new-quote">New Quote</button>
+        </div>
+      </div>
+    </main>
   </body>
 </html>
