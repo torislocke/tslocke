@@ -1,0 +1,8 @@
+html {
+    box-sizing: border-box; /* ensures padding does not stretch page causing scroll bar */
+}
+
+body {
+    margin: 0; /* eliminates default 10 px margin */
+    min-height: 100vh; /* ensures any background takes up full height of screen */
+}
