@@ -8,10 +8,15 @@ body {
   margin: 0; /* eliminate 10px defaul margin */
   background-color: #45badd;
 }
+h1 {
+  text-align: center;
+  color: white;
+}
 
 .container {
   width: 100vw; /* dynamic scale */
   height: 100vh; /* dynamic scale */
+  margin-top: -7rem;
   display: flex;
   flex-direction: column; /* align two items top / bottom */
   justify-content: center; /* align horizontally*/
