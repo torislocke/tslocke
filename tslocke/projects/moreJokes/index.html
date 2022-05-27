@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <meta name="robots" content="noindex nofollow" />
+    <meta name="AdsBot-Google" content="noindex, noarchive" />
+    <meta name="googlebot" content="noindex" />
+    <title>Joke Teller</title>
+    <link rel="icon" type="image/png" href="../../tlFavicon.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <script src="voiceRSS.js" defer></script>
+    <script src="script.js" defer></script>
+  </head>
+
+  <body>
+    <main>
+      <h1>Pun Jokes</h1>
+      <div class="container">
+        <button id="button">Tell Me A Joke</button>
+        <!-- Use html "hidden" to hide audio control bar on screen -->
+        <audio id="audio" controls hidden></audio>
+      </div>
+
+      <div class="joke-container" id="joke-container">
+        <!-- Joke Display on Screen for Accessability -->
+        <div class="joke-text">
+          <span id="joke"></span>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>

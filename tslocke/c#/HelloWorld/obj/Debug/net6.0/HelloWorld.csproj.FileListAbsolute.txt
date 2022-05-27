@@ -1,0 +1,15 @@
+E:\SoftwareDev\tslocke\c#\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+E:\SoftwareDev\tslocke\c#\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+E:\SoftwareDev\tslocke\c#\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+E:\SoftwareDev\tslocke\c#\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+E:\SoftwareDev\tslocke\c#\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+E:\SoftwareDev\tslocke\c#\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+E:\SoftwareDev\tslocke\c#\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftwareDev\tslocke\c#\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+E:\SoftwareDev\tslocke\c#\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+E:\SoftwareDev\tslocke\c#\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+E:\SoftwareDev\tslocke\c#\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+E:\SoftwareDev\tslocke\c#\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+E:\SoftwareDev\tslocke\c#\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+E:\SoftwareDev\tslocke\c#\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+E:\SoftwareDev\tslocke\c#\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
